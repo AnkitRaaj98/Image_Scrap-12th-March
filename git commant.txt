@@ -1,0 +1,14 @@
+git init 
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AnkitRaaj98/Image_Scrap-12th-March.gi
+git config --global user.email "ankitraj11aug@gmail.com"
+git config --global user.name "AnkitRaaj98"
+git push -u origin main
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/AnkitRaaj98/Image_Scrap-12th-March
+git push -u origin main
+
+git clone
